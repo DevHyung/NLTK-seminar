@@ -3,3 +3,6 @@ nltk_tutorial-master/
 
 #강의자료
 *.pdf
+
+#Pycharm config
+.idea/
