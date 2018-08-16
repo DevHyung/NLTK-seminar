@@ -10,9 +10,10 @@
     Description :
         WC
 '''
-# If your os MAC add below code
+# 1 : If your os MAC, Adding below code
 import matplotlib
 matplotlib.use('TkAgg')
+# 1 : =============================
 from matplotlib import rc
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
