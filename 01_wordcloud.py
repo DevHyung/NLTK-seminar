@@ -5,15 +5,14 @@
     File name: 01_wordcloud.py
     Author: DevHyung
     Date created: 2018.08.16
-    Date last modified: SAME
+    Date last modified: -
     Python Version: 3.6
     Description :
-        워드클라우드파일
+        WC
 '''
 # If your os MAC add below code
 import matplotlib
 matplotlib.use('TkAgg')
-
 from matplotlib import rc
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
